@@ -6,15 +6,15 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Python+%7C+JavaScript+%7C+TypeScript;AI%2FML+Enthusiast;Open+Source+Contributor;From+Nepal+with+Love)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=f39c12&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Python+%7C+JavaScript+%7C+TypeScript;AI%2FML+Enthusiast;Open+Source+Contributor;From+Nepal+with+Love)
   
 </div>
 
 <div align="center">
   
-  [![Website](https://img.shields.io/badge/Website-lusansapkota.com.np-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lusansapkota.com.np)
+  [![Website](https://img.shields.io/badge/Website-lusansapkota.com.np-f39c12?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lusansapkota.com.np)
   [![Email](https://img.shields.io/badge/Email-sapkotalusan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sapkotalusan@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lusan-sapkota-a08194284/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-d35400?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lusan-sapkota-a08194284/)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LusanSapkota)
   
 </div>
@@ -27,38 +27,46 @@
 
 ## Current Developer Mood
 
+<div align="center">
+
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-cool.png" width="80" height="80" style="border-radius: 50%;"><br>
-<sub><b>Coding Mode</b></sub>
+
+<td align="center" width="150">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-cool.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+  <b>Coding Mode</b>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-angry.png" width="80" height="80" style="border-radius: 50%;"><br>
-<sub><b>Debugging Bugs</b></sub>
+
+<td align="center" width="150">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-angry.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+  <b>Debugging Bugs</b>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-happy.png" width="80" height="80" style="border-radius: 50%;"><br>
-<sub><b>Code Working!</b></sub>
+
+<td align="center" width="150">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-happy.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+  <b>Code Working!</b>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-sleeping.png" width="80" height="80" style="border-radius: 50%;"><br>
-<sub><b>Coffee Break</b></sub>
+
+<td align="center" width="150">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-sleeping.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+  <b>Coffee Break</b>
 </td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-surprised.png" width="80" height="80" style="border-radius: 50%;"><br>
-<sub><b>New Tech!</b></sub>
+
+<td align="center" width="150">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-surprised.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+  <b>New Tech!</b>
 </td>
+
 </tr>
 </table>
 
 </div>
 
+
 ---
 
 ## About Me
 
-<div align="center">
 <img src="https://github.com/Lusan-sapkota/Lusan-sapkota/raw/main/assets/code-animation.gif" width="400" height="250" alt="Coding Animation">
 </div>
 
@@ -94,7 +102,7 @@ class LusanSapkota:
         
     def get_current_vibe(self):
         return "Excited about every new commit!"
-```
+````
 
 ---
 
@@ -143,6 +151,15 @@ class LusanSapkota:
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
 <br><strong>React</strong>
+</td>
+<td align="center" width="150">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" width="65" height="65" alt="React Native" />
+  <br><strong>React Native</strong>
+</td>
+
+<td align="center" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="65" height="65" alt="Ionic" />
+  <br><strong>Ionic</strong>
 </td>
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue.js" />
@@ -239,6 +256,9 @@ class LusanSapkota:
 </table>
 </div>
 
+<br>
+💡 For a full and updated list of my tech stack, projects, and blog posts — feel free to visit my website:<br>
+👉 <a href="https://www.lusansapkota.com.np"><strong>www.lusansapkota.com.np</strong></a>
 </div>
 
 ---
@@ -251,21 +271,21 @@ class LusanSapkota:
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Lusan-sapkota&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lusan-sapkota&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=f39c12&icon_color=f39c12&text_color=FFFFFF" alt="GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusan-sapkota&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lusan-sapkota&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=f39c12&text_color=FFFFFF" alt="Top Languages" />
 </td>
 </tr>
 </table>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lusan-sapkota&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lusan-sapkota&theme=react&hide_border=true&background=0D1117&stroke=f39c12&ring=f39c12&fire=f1c40f&currStreakLabel=f39c12" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lusan-sapkota&bg_color=0D1117&color=6366F1&line=6366F1&point=F59E0B&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lusan-sapkota&bg_color=0D1117&color=f39c12&line=f39c12&point=f1c40f&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 </div>
@@ -280,7 +300,7 @@ class LusanSapkota:
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Currently%20Building-6366F1?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Currently%20Building-f39c12?style=for-the-badge&logo=rocket&logoColor=white" />
 <br><br>
 <strong>Building:</strong><br>
 Full-stack web applications<br>
@@ -288,7 +308,7 @@ AI/ML integrations<br>
 Developer tools from scratch
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Learning%20&%20Growing-10B981?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning%20&%20Growing-e67e22?style=for-the-badge&logo=brain&logoColor=white" />
 <br><br>
 <strong>Learning:</strong><br>
 Advanced AI/ML applications<br>
@@ -296,7 +316,7 @@ Graph-based models<br>
 System architecture patterns
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Collaboration%20Ready-F59E0B?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Collaboration%20Ready-f1c40f?style=for-the-badge&logo=handshake&logoColor=white" />
 <br><br>
 <strong>Available For:</strong><br>
 Open source projects<br>
@@ -347,7 +367,7 @@ Freelance opportunities
 </td>
 <td align="center">
 <a href="https://www.lusansapkota.com.np">
-<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-f39c12?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -369,13 +389,13 @@ Freelance opportunities
 <table>
 <tr>
   <td align="center" width="300">
-    <img src="https://img.shields.io/badge/CaptainLedger-Self--Hosted_Expense_Manager-6366F1?style=for-the-badge" /><br>
+    <img src="https://img.shields.io/badge/CaptainLedger-Self--Hosted_Expense_Manager-f39c12?style=for-the-badge" /><br>
     <sub><b>React Native + Flask</b></sub><br>
     <sub>Offline-first | Currency Sync | Local Auth</sub>
   </td>
-  
+
   <td align="center" width="300">
-    <img src="https://img.shields.io/badge/GhostTalk-Encrypted_Chat_App-10B981?style=for-the-badge" /><br>
+    <img src="https://img.shields.io/badge/GhostTalk-Encrypted_Chat_App-e67e22?style=for-the-badge" /><br>
     <sub><b>Ionic React + Appwrite</b></sub><br>
     <sub>Real-time Chat | Secure | P2P Calls</sub>
   </td>
@@ -383,13 +403,13 @@ Freelance opportunities
 
 <tr>
   <td align="center" width="300">
-    <img src="https://img.shields.io/badge/Smart--Shell-AI_Powered_Terminal-8B5CF6?style=for-the-badge" /><br>
+    <img src="https://img.shields.io/badge/Smart--Shell-AI_Powered_Terminal-f1c40f?style=for-the-badge" /><br>
     <sub><b>Python + Bash + NLP</b></sub><br>
     <sub>CLI Agent | Command Safety | Prompting</sub>
   </td>
 
   <td align="center" width="300">
-    <img src="https://img.shields.io/badge/Jarvis-Personal_AI_Assistant-F59E0B?style=for-the-badge" /><br>
+    <img src="https://img.shields.io/badge/Jarvis-Personal_AI_Assistant-f1c40f?style=for-the-badge" /><br>
     <sub><b>Python + AI</b></sub><br>
     <sub>Face Recognition | Voice Commands | Automation</sub>
   </td>
@@ -414,17 +434,16 @@ Explore more in my [pinned GitHub repos](https://github.com/Lusan-sapkota?tab=re
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Specializing%20In-6366F1?style=for-the-badge" />
-<br><br>
-<strong>Core Services:</strong><br>
+<img src="https://img.shields.io/badge/Specializing%20In-f39c12?style=for-the-badge" /> <br><br> <strong>Core Services:</strong><br>
 Full Stack Web Development<br>
 AI/ML Integration<br>
 Self-hosted Architectures<br>
 Open Source Contributions<br>
 Developer Tools & Automation
+
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Available%20For-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Available%20For-e67e22?style=for-the-badge" />
 <br><br>
 <strong>Opportunities:</strong><br>
 Freelance Projects<br>
@@ -481,10 +500,10 @@ Mentoring & Teaching
 
 ### "Code is like humor. When you have to explain it, it's bad."
 
-<strong>Working Hours:</strong> Monday-Friday, 9:00 AM - 6:00 PM (Nepal Time)
+<strong>Working Hours:</strong> Basically anytime... just not 3AM (Nepal Time 😴)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Lusan-sapkota&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Lusan-sapkota&color=f39c12&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
 </div>
@@ -500,3 +519,5 @@ Mentoring & Teaching
 <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/wave.gif" width="30px" height="30px">
 
 </div>
+
+
