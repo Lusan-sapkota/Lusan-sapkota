@@ -32,28 +32,28 @@
 <table>
 <tr>
 
-<td align="center" width="150">
-  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-cool.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+<td align="center" style="padding: 12px;">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-cool.png" width="90" height="90" style="border-radius: 50%;"><br>
   <b>Coding Mode</b>
 </td>
 
-<td align="center" width="150">
-  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-angry.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+<td align="center" style="padding: 12px;">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-angry.png" width="90" height="90" style="border-radius: 50%;"><br>
   <b>Debugging Bugs</b>
 </td>
 
-<td align="center" width="150">
-  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-happy.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+<td align="center" style="padding: 12px;">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-happy.png" width="90" height="90" style="border-radius: 50%;"><br>
   <b>Code Working!</b>
 </td>
 
-<td align="center" width="150">
-  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-sleeping.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+<td align="center" style="padding: 12px;">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-sleeping.png" width="90" height="90" style="border-radius: 50%;"><br>
   <b>Coffee Break</b>
 </td>
 
-<td align="center" width="150">
-  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-surprised.png" width="100" height="100" style="border-radius: 50%; padding: 8px;"><br>
+<td align="center" style="padding: 12px;">
+  <img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/avatar-surprised.png" width="90" height="90" style="border-radius: 50%;"><br>
   <b>New Tech!</b>
 </td>
 
@@ -67,7 +67,6 @@
 
 ## About Me
 
-<img src="https://github.com/Lusan-sapkota/Lusan-sapkota/raw/main/assets/code-animation.gif" width="400" height="250" alt="Coding Animation">
 </div>
 
 ```python
@@ -76,7 +75,7 @@ class LusanSapkota:
         self.name = "Lusan Sapkota"
         self.role = "Full Stack Software Developer"
         self.location = "Kathmandu, Nepal"
-        self.education = "Bachelor's in Information Technology (2023-2027)"
+        self.education = "Bachelor's in Information Technology (current)"
         self.languages = ["English", "Nepali", "Hindi"]
         self.coffee_cups_today = "∞"
         self.current_status = "Building awesome stuff!"
@@ -515,8 +514,6 @@ Mentoring & Teaching
 ## Thanks for stopping by!
 
 **If you find my work interesting, feel free to star my repositories!**
-
-<img src="https://raw.githubusercontent.com/Lusan-sapkota/Lusan-sapkota/main/assets/wave.gif" width="30px" height="30px">
 
 </div>
 
