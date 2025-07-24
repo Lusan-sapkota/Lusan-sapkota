@@ -256,7 +256,7 @@ class LusanSapkota:
 </div>
 
 <br>
-💡 For a full and updated list of my tech stack, projects, and blog posts — feel free to visit my website:<br>
+For a full and updated list of my tech stack, projects, and blog posts — feel free to visit my website:<br>
 👉 <a href="https://www.lusansapkota.com.np"><strong>www.lusansapkota.com.np</strong></a>
 </div>
 
