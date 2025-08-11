@@ -280,7 +280,7 @@ For a full and updated list of my tech stack, projects, and blog posts — feel 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lusan-sapkota&theme=react&hide_border=true&background=0D1117&stroke=f39c12&ring=f39c12&fire=f1c40f&currStreakLabel=f39c12" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lusan-sapkota)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
