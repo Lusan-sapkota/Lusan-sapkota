@@ -280,7 +280,7 @@ For a full and updated list of my tech stack, projects, and blog posts — feel 
 </div>
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Lusan-sapkota)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com?user=Lusan-sapkota" alt="GitHub Streak">
 </div>
 
 <div align="center">
