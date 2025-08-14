@@ -513,7 +513,7 @@ Mentoring & Teaching
 
 ## Thanks for stopping by!
 
-**If you find my work interesting, feel free to star my repositories!**
+**If you find my work interesting, feel free to star and fork my repositories!**
 
 </div>
 
