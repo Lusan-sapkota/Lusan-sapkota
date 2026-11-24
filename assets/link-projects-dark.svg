@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="186" height="44" viewBox="0 0 186 44" role="img" aria-label="All projects">
-  <rect x="0.5" y="0.5" width="185" height="43" rx="21.5" fill="#14181f" stroke="#2a313b"/>
-  <text x="26" y="28.5" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#ece6dc" textLength="110" lengthAdjust="spacingAndGlyphs">All projects</text>
-  <path d="M150 29 L160 19 M152 19 H160 V27" fill="none" stroke="#e07b53" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
